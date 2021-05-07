@@ -1,0 +1,80 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+/* ==========================================
+Single-colored icons can be modified like so:
+.icon-name {
+  font-size: 32px;
+  color: red;
+}
+========================================== */
+
+.icon-p-airtime-purchase {
+  width: 0.888671875em;
+}
+
+.icon-p-bitcoin {
+  width: 1.0224609375em;
+}
+
+.icon-p-giftcard-trading {
+  width: 1.0224609375em;
+}
+
+.icon-p-patricia-pay {
+  width: 1.41015625em;
+}
+
+.icon-p-patricia-refill {
+  width: 0.9755859375em;
+}
+
+.icon-p-trading-instructions {
+  width: 0.888671875em;
+}
+
+.icon-p-refill {
+  width: 0.9755859375em;
+}
+
+.icon-facebook {
+  width: 0.59375em;
+}
+
+.icon-p-airtime-purchase1 {
+  width: 0.875em;
+}
+
+.icon-p-document {
+  width: 0.75em;
+}
+
+.icon-p-email {
+  width: 1.21875em;
+}
+
+.icon-p-pay {
+  width: 1.40625em;
+}
+
+.icon-twitter {
+  width: 1.25em;
+}
+
+.icon-youtube {
+  width: 1.2rem;
+}
+
+.icon-instagram {
+  width: 1.3rem;
+}
+
+.icon-guardian {
+  width: 10rem;
+}
